@@ -1,4 +1,4 @@
-# html-tutorial-
+# html-tutorial-Frontend
 ```html
 <!DOCTYPE html>
 <html>
@@ -39,9 +39,7 @@
 ```
 
 
-# EVENT MANGEMENT WEBPAGE
 
-![webpage]()
 
 
 

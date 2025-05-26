@@ -1,5 +1,4 @@
 # html-tutorial-
-```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -35,8 +34,8 @@
 
           </center>
     </body>
-
-
-
 </html>
 ```html
+
+
+

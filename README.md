@@ -88,6 +88,64 @@
 
 # Register Html
 
+```html
+
+<!DOCTYPE html>
+<head>
+      <title>EMC</title>
+</head>
+<body>
+    <center>
+    <h1>True Acdamy 🚀</h1>
+    <h6>Traning|Tech News|Freshers Guide</h6>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit aperiam, similique, officiis magni illum aut nulla soluta, sequi eum corporis ad earum. Mollitia, optio! Nostrum explicabo nesciunt qui facilis eos?</p>
+    </center>
+    <hr>
+    <center>
+        <h1>Regestration Form</h1>
+        <form>
+            <table>
+                <tr>
+                <td>NAME</td> <td><input type="text" placeholder="enter your name"></td>
+                </tr>
+                <tr>
+                    <td>Age</td> <td><input type="number" placeholder="enter the age"></td>
+                </tr>
+                <tr>
+                    <td>Gender</td> <td><input type="radio" name="Gender">Male<input type="radio" name="Gender">Female</td>
+                </tr>
+                <tr>
+                    <td>Email</td> <td><input type="email" placeholder="enter the email"></td>
+                </tr>
+                <tr>
+                    <td>select a course</td>
+                    <td>
+                    <select>
+                        <option>java</option>
+                        <option>full stack</option>
+                        <option>sql</option>
+                    </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>upload your resume</td>
+                    <td><input type="file"></td>
+                </tr>
+                <tr>
+                    <td><input type="reset"></td>
+                    <td><input type="submit"></td>
+                </tr>
+            </table>
+            <hr>
+            <center>
+    <a href="index.html">Home</a> <a href="">|Instagram</a> <a href="https://www.youtube.com/watch?v=7dSJubxFWv0&t=2422s">|youtube</a>
+</center>
+<hr>
+        </form>
+    </center>
+</body>
+</html>
+```
 
 
 

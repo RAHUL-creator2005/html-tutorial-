@@ -38,6 +38,65 @@
 </html>
 ```
 
+# Index html
+
+```html
+<!DOCTYPE html>
+<head>
+   <title>EMC</title>
+</head>
+<center>
+<body>
+    <h1>True Acdamy 🚀</h1>
+    <h6>Traning|Tech News|Freshers Guide</h6>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit aperiam, similique, officiis magni illum aut nulla soluta, sequi eum corporis ad earum. Mollitia, optio! Nostrum explicabo nesciunt qui facilis eos?</p>
+    <hr>
+    <center>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/7dSJubxFWv0?si=TISZdPzIdyQJIOxp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eveniet fugit quam et in quae minus veniam nostrum similique? Corrupti, eaque recusandae laudantium debitis reprehenderit earum. Asperiores accusamus ipsa veritatis. Necessitatibus adipisci quasi ea dolore temporibus culpa neque, quisquam labore? Dignissimos illum maxime provident porro molestias repellat? Perspiciatis illo amet culpa?</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, fuga minima. Tenetur fuga vitae, perferendis similique architecto eius repellat culpa, odit voluptates, deleniti itaque? Fugit beatae quae ipsam, assumenda eligendi qui nihil iste praesentium enim veritatis nisi eaque tempore quos quaerat atque? Eaque omnis, quas animi at accusantium quasi laborum.</p>
+    </center>
+<h2>lets divide full stack into three parts</h2>
+<ul>
+    <li>front end</li>
+    <li>back end</li>
+    <li>database</li>
+</ul>
+<h2>Technology Used For Full Stack</h2>
+<table border="1">
+    <tr>
+        <td>Front End</td> <td>Back End</td> <td>Database</td>
+    </tr>
+    <tr>
+        <td>html</td> <td>java</td> <td>mogodb</td>
+    </tr>
+    <tr>
+        <td>css</td> <td>python</td> <td>mysql</td>
+    </tr>
+    <tr>
+        <td>javascript</td> <td>node js</td> <td>AWS</td>
+    </tr>
+</table>
+<hr>
+<center>
+    <a href="register.html">register for course</a> <a href="">|instgram</a> <a href="https://www.youtube.com/watch?v=7dSJubxFWv0&t=2422s">|youtube</a>
+</center>
+</body>
+</html>
+```
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -39,7 +39,7 @@
 ```
 
 
-# EVWNT MANGEMENT WEBPAGE
+# EVENT MANGEMENT WEBPAGE
 
 ![webpage](file:///C:/Users/DELL/Desktop/frontend%20tutorial/html-youtube-tutorial-main/Event%20Management%20HTML%20Project/starter/event.html)
 

@@ -1,6 +1,6 @@
 # Html-tutorial-Frontend
-# WebPage Development Project
-## Event Html
+# *WebPage Development Project
+## 1.Event Html
 ```html
 <!DOCTYPE html>
 <html>
@@ -40,7 +40,7 @@
 </html>
 ```
 
-# Index html
+## 2.Index html
 
 ```html
 <!DOCTYPE html>
@@ -88,7 +88,7 @@
 </html>
 ```
 
-# Register Html
+## 3.Register Html
 
 ```html
 
